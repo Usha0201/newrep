@@ -1,2 +1,31 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+<html>
+    <head>
+        <title>untitled</title>
+        <link rel="stylesheet" href="Untitled-2.css">
+    </head>
+    <body>
+        <div class="header">
+        <div class="business">
+            <h1>Business Theme</h1>
+        </div>
+        <div class="menu" >
+            <ul class="menulist">
+                <li><a href="default.app"><h2>WatchVedio</h2></a></li>
+                <li><a href="default.app"><h2>DemoPages</h2></a></li> 
+                <li><a href="default.app"><h2>Blocks</h2></a></li>
+                <button class="buynow"><h3>Buy Now</h3></button>
+            </ul>
+        </div>
+        </div>
+        <div class="footer">
+            <div class="photo">
+            <img src="star.png" alt="">
+        </div>
+        <div class="quote">
+            <h1>Trees can live for many years. </h1>
+        </div>
+        </div>
+    </body>
+</html>
